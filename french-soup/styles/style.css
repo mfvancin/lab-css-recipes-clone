@@ -7,3 +7,16 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+h1{
+ text-align: center;
+}
+h2{
+text-align: center;
+}
+body{
+text-align: center;
+}
+img{
+  width: 500px; 
+  align-items: center;
+}
